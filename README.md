@@ -1,2 +1,2 @@
 # spfy-b-anlzr
-Hosted for MVR
+Hosted scripts for © 2022 MVR
